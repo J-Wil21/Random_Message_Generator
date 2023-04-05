@@ -1,6 +1,6 @@
 # Random Message Generator
 
-## Why create this?
+## Why did I create this?
 
 ### This is a project to work on my programming skills. Also to practice my git command skills all uploads of files where done using git commands. From adding the files on the the stage to pushing into the github repo.
 
