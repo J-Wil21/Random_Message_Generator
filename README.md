@@ -17,4 +17,9 @@
     * Added an "eventListener" to the button and gave it a function that would pick three words at random and show them once the button is clicked.
     * The 3 words would should with '-' separating them.
 
-### I hope to improve this by adding CSS and better/advance functionality. I hope to collaborate within someone to help me improve this app.
+### I hope to improve this by adding CSS and better/advance functionality. I hope to collaborate with someone to help me improve this app.
+
+# 🚀 Upcoming feature
+[@Wayne](https://github.com/wgchasi) and [@Joshua](https://github.com/J-Wil21) will be collaborating to add the functionality of pulling and displaying words from an online database. In time, this will expand to become a password generator.
+
+### We will be using [WordsAPI](https://www.wordsapi.com/docs).
